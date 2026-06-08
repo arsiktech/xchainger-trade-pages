@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://xchainger.trade/</loc></url>
-  <url><loc>https://xchainger.trade/terms.html</loc></url>
-  <url><loc>https://xchainger.trade/privacy.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://xchainger.trade/</loc><xhtml:link rel="alternate" hreflang="en" href="https://xchainger.trade/"/><xhtml:link rel="alternate" hreflang="sk" href="https://xchainger.trade/sk/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://xchainger.trade/"/></url>
+  <url><loc>https://xchainger.trade/sk/</loc><xhtml:link rel="alternate" hreflang="en" href="https://xchainger.trade/"/><xhtml:link rel="alternate" hreflang="sk" href="https://xchainger.trade/sk/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://xchainger.trade/"/></url>
+  <url><loc>https://xchainger.trade/terms.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://xchainger.trade/terms.html"/><xhtml:link rel="alternate" hreflang="sk" href="https://xchainger.trade/sk/terms.html"/><xhtml:link rel="alternate" hreflang="x-default" href="https://xchainger.trade/terms.html"/></url>
+  <url><loc>https://xchainger.trade/sk/terms.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://xchainger.trade/terms.html"/><xhtml:link rel="alternate" hreflang="sk" href="https://xchainger.trade/sk/terms.html"/><xhtml:link rel="alternate" hreflang="x-default" href="https://xchainger.trade/terms.html"/></url>
+  <url><loc>https://xchainger.trade/privacy.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://xchainger.trade/privacy.html"/><xhtml:link rel="alternate" hreflang="sk" href="https://xchainger.trade/sk/privacy.html"/><xhtml:link rel="alternate" hreflang="x-default" href="https://xchainger.trade/privacy.html"/></url>
+  <url><loc>https://xchainger.trade/sk/privacy.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://xchainger.trade/privacy.html"/><xhtml:link rel="alternate" hreflang="sk" href="https://xchainger.trade/sk/privacy.html"/><xhtml:link rel="alternate" hreflang="x-default" href="https://xchainger.trade/privacy.html"/></url>
 </urlset>
